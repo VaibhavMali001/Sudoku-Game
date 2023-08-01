@@ -12,7 +12,7 @@ The Sudoku puzzle game project is built using Java. The primary focus of the pro
 
 •	Check Moves button to verify the correctness of the moves made.
 
-#How to run?
+# How to run?
 To run the Sudoku Solver project on your local machine, follow these steps:
 
 1. Install Java Development Kit (JDK):
