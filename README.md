@@ -15,21 +15,19 @@ The Sudoku puzzle game project is built using Java. The primary focus of the pro
 # How to run?
 To run the Sudoku Solver project on your local machine, follow these steps:
 
-1. Install Java Development Kit (JDK):
+1. Install Java Development Kit (JDK): 
+    • Ensure you have Java Development Kit (JDK) installed on your computer. You can download the       latest JDK from the official Oracle website or use a compatible          JDK version.
    
-    • Ensure you have Java Development Kit (JDK) installed on your computer. You can download the       latest JDK from the official Oracle website or use a compatible JDK version.
+2. Install Apache NetBeans:
+   • Download and install Apache NetBeans IDE. Make sure you choose the version that supports Java development.
    
-Install Apache NetBeans:
+3. Clone or Download the Project:
+   • Clone the Sudoku Solver project repository from the version control system if it's available, or download the project source code as a ZIP file.
+   Import the Project into NetBeans:
 
-Download and install Apache NetBeans IDE. Make sure you choose the version that supports Java development.
-Clone or Download the Project:
-
-Clone the Sudoku Solver project repository from the version control system if it's available, or download the project source code as a ZIP file.
-Import the Project into NetBeans:
-
-Open Apache NetBeans IDE.
-Go to "File" > "Open Project" and navigate to the folder where you cloned or extracted the Sudoku Solver project.
-Set Up Java Swing and AWT Libraries:
+4. Open Apache NetBeans IDE.
+   • Go to "File" > "Open Project" and navigate to the folder where you cloned or extracted the Sudoku Solver project.
+   Set Up Java Swing and AWT Libraries:
 
 In NetBeans, right-click on the project name in the "Projects" pane.
 Select "Properties" from the context menu.
