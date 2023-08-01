@@ -34,3 +34,9 @@ Right-click on the project name again and choose "Build" from the context menu. 
 7. Run the Project:
 After successful build, right-click on the project name.
 Select "Run" from the context menu, or click the green "Play" button in the toolbar. This will launch the Sudoku Solver application.
+
+# Screenshots
+![Screenshot 2023-08-01 232429](https://github.com/VaibhavMali001/Sudoku-game/assets/139566561/0b2497a6-16b3-45cc-afc2-43351d82f7eb)
+![Screenshot 2023-08-01 232453](https://github.com/VaibhavMali001/Sudoku-game/assets/139566561/7bb1d29d-94de-48a5-b187-c3cf8cd8e466)
+![Screenshot 2023-08-01 232521](https://github.com/VaibhavMali001/Sudoku-game/assets/139566561/41bbcd3e-72d3-41b4-8c9c-91134e35237e)
+![Screenshot 2023-08-01 232537](https://github.com/VaibhavMali001/Sudoku-game/assets/139566561/3c3e87cc-f93f-4551-a216-fe111c6cca9b)
